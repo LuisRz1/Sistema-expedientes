@@ -3,7 +3,7 @@
     "steps": {
         "extensions": {
             "commands": [
-                "install-php-extensions ctype curl dom fileinfo filter gd hash mbstring openssl pcre pdo session tokenizer xml pdo_mysql redis"
+                "install-php-extensions ctype curl dom fileinfo filter gd hash mbstring openssl pcre pdo session tokenizer xml zip pdo_mysql redis"
             ]
         }
     }
